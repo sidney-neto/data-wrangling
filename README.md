@@ -1,4 +1,5 @@
 # Data Wrangling com Python
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sidney-neto/data-wrangling/blob/master/data-wrangling.ipynb)
 
 ## Introdução
 Uma análise ou predição bem-sucedida depende de dados precisos, bem estruturados e formatados para as diversas finalidades. O Data Wrangling é o processo pelo qual você deve passar para fazer a transição de entradas de fontes de dados brutas em saídas preparadas para serem utilizadas na análise ou em modelos de Machine Learning.
