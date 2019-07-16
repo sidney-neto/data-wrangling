@@ -5,7 +5,7 @@
 Uma análise ou predição bem-sucedida depende de dados precisos, bem estruturados e formatados para as diversas finalidades. O Data Wrangling é o processo pelo qual você deve passar para fazer a transição de entradas de fontes de dados brutas em saídas preparadas para serem utilizadas na análise ou em modelos de Machine Learning.
 
 ## Objetivo
-Este repositório consiste na demonstração das principais técnicas de Tratamento de Dados.
+Este repositório consiste na demonstração das principais técnicas de Preparação e Tratamento de Dados.
 
 ## Data Wrangling consiste em:
 - Coleta de Dados
